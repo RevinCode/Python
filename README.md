@@ -5,5 +5,5 @@
 - learning by creating projects
 - learning base python ( already know quite much )
 - learning libraries and how to use them
-- 
+
 and in the very end : maybe a very complicated project which involves alot like : an ai? maybe an cool interface for stuff like calculation? idk. 
